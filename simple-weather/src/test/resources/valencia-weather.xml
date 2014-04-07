@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Valencia, SP</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Valencia__SP/*http://weather.yahoo.com/forecast/SPXX0082_f.html</link>
+<description>Yahoo! Weather for Valencia, SP</description>
+<language>en-us</language>
+<lastBuildDate>Mon, 24 Mar 2014 12:29 pm CET</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Valencia" region=""   country="SP"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="70"   direction="250"   speed="18" />
+<yweather:atmosphere humidity="21"  visibility="6.21"  pressure="30"  rising="2" />
+<yweather:astronomy sunrise="6:59 am"   sunset="7:17 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Valencia, SP at 12:29 pm CET</title>
+<geo:lat>39.47</geo:lat>
+<geo:long>-.37</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Valencia__SP/*http://weather.yahoo.com/forecast/SPXX0082_f.html</link>
+<pubDate>Mon, 24 Mar 2014 12:29 pm CET</pubDate>
+<yweather:condition  text="Fair"  code="34"  temp="70"  date="Mon, 24 Mar 2014 12:29 pm CET" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/34.gif"/><br />
+<b>Current Conditions:</b><br />
+Fair, 70 F<BR />
+<BR /><b>Forecast:</b><BR />
+Mon - Cloudy. High: 73 Low: 50<br />
+Tue - Partly Cloudy/Wind. High: 73 Low: 47<br />
+Wed - Mostly Cloudy. High: 64 Low: 44<br />
+Thu - Mostly Sunny. High: 66 Low: 44<br />
+Fri - Mostly Cloudy. High: 62 Low: 52<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Valencia__SP/*http://weather.yahoo.com/forecast/SPXX0082_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Mon" date="24 Mar 2014" low="50" high="73" text="Cloudy" code="26" />
+<yweather:forecast day="Tue" date="25 Mar 2014" low="47" high="73" text="Partly Cloudy/Wind" code="24" />
+<yweather:forecast day="Wed" date="26 Mar 2014" low="44" high="64" text="Mostly Cloudy" code="28" />
+<yweather:forecast day="Thu" date="27 Mar 2014" low="44" high="66" text="Mostly Sunny" code="34" />
+<yweather:forecast day="Fri" date="28 Mar 2014" low="52" high="62" text="Mostly Cloudy" code="28" />
+<guid isPermaLink="false">SPXX0082_2014_03_28_7_00_CET</guid>
+</item>
+</channel>
+</rss>
